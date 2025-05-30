@@ -26,3 +26,19 @@ Welcome to the **DSA Practice** repository! This collection contains Java implem
 
 ## 🛠️ Folder Structure
 
+Each topic folder contains separate Java files implementing different approaches:
+- `_Brute.java` – naive approach
+- `_Better.java` – improved logic (if available)
+- `_Optimal.java` – most efficient solution
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/HarshadTile/DSA-Practice.git
+
+
+Let me know if you want to include badges, a license section, or more problem categories.
+
