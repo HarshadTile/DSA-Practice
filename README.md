@@ -21,6 +21,9 @@ Welcome to the **DSA Practice** repository! This collection contains Java implem
 | Longest Consecutive Sequence | [LongestConsecutive_Brute.java](https://github.com/HarshadTile/DSA-Practice/blob/main/src/Arrays/LongestConsucative_Brute.java) | [LongestConsecutive_Better.java](https://github.com/HarshadTile/DSA-Practice/blob/main/src/Arrays/LongestConsucative_Better.java) | [LongestConsecutive_Optimal.java](https://github.com/HarshadTile/DSA-Practice/blob/main/src/Arrays/LongestConsucative_Optimal.java) |
 | Leaders in Array           | [LeadersInArray_Brute.java](https://github.com/HarshadTile/DSA-Practice/blob/main/src/Arrays/LeadersInArray_Brute.java) | – | [LeadersInArray_Optimal.java](https://github.com/HarshadTile/DSA-Practice/blob/main/src/Arrays/LeadersInArray_Optimal.java) |
 | Set Matrix Zeros           | [SetMatrixZeros_Brute.java](https://github.com/HarshadTile/DSA-Practice/blob/main/src/Arrays/SetMatrixZeros_Brute.java) | [SetMatrixZeros_Better.java](https://github.com/HarshadTile/DSA-Practice/blob/main/src/Arrays/SetMatrixZeros_Better.java) | [SetMatrixZeros_Optimal.java](https://github.com/HarshadTile/DSA-Practice/blob/main/src/Arrays/SetMatrixZeros_Optimal.java) |
+| Spiral Traversing Matrix           |  |  | [SpirallyMatrixTraverse.java](https://github.com/HarshadTile/DSA-Practice/blob/main/src/Arrays/SpirallyMatrixTraverse.java) |
+
+
 
 ---
 
