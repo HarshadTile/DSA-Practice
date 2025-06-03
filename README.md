@@ -5,12 +5,14 @@ Welcome to the **DSA Practice** repository! This collection contains Java implem
 ---
 
 ## 📌 Topics Covered
+
+### 📚 Basics
 | Problem           | Solution                                                                                                       |
 |-------------------|----------------------------------------------------------------------------------------------------------------|
 | Prime Number      | [IsNumberPrime.java](https://github.com/HarshadTile/DSA-Practice/blob/main/src/Basics/IsNumberPalindrom.java)           |
 | Palindrome Number | [IsNumberPalindrome.java](https://github.com/HarshadTile/DSA-Practice/blob/main/src/Basics/IsNumberPalindrome.java) |
 | Palindrome Check  | [IsStringPalindrome.java](https://github.com/HarshadTile/DSA-Practice/blob/main/src/Basics/IsStringPalindrome.java) |
-### 📚 Basics
+
 
 
 ### 🔁 Recursion & Backtracking
